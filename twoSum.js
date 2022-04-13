@@ -13,6 +13,7 @@ function twoSum (nums, target) {
         }
     }
 
-    console.log(i,j);
-
 };
+
+console.log(twoSum(nums, target));
+
